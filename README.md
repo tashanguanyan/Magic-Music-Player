@@ -1,4 +1,4 @@
-#Magic-Music-Player
+Magic-Music-Player
 ====
 This project is aim to design a real-time gesture-based Magic Music System, capable of adding sound effects (including tone and/or volume) in real time using defined hand gestures.
 
